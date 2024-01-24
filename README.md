@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Raiffe, um desenvolvedor full stack em contrução!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Raiffe, um desenvolvedor full stack!</h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
